@@ -8,10 +8,10 @@
     }
 ?>
 
-<h3 align="center">Masukan Data Siswa</h3>
+<h3 >Masukan Data Siswa</h3>
 
 <form action="" method="post">
-<table  bgcolor="">
+<table  bgcolor="orange" border="1">
     
     <tr>
         <td>Nama</td>
@@ -37,7 +37,7 @@
   
         
 </form>
-<h4 align="center">Data Diri Siswa/(i) </h4>
+<h4 >Data Diri Siswa/(i) </h4>
 <table border="1" >
     <thead>
         <th>No</th>
